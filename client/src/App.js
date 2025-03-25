@@ -3,6 +3,7 @@ import Register from "./Auth/components/Register";
 import Login from "./Auth/components/Login";
 import Dashboard from "./Auth/components/Dashboard";
 
+
 function App() {
     return (
         <Router>
